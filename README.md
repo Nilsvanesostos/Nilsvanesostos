@@ -10,6 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-1?color=FEFBF6&logo=gmail)](mailto:nilsvanes@gmail.com)
 [![github](https://img.shields.io/badge/dynamic/json?color=FEFBF6&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DNilsvanesostos&logo=github)](https://github.com/Nilsvanesostos) 
 [![linkedin](https://img.shields.io/badge/LinkedIn-1?color=0A66C2)](https://www.linkedin.com/in/nils-van-es-ostos-1761b7247/)
+
 </div>
 
 
